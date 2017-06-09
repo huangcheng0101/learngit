@@ -1,3 +1,2 @@
-readme.txt
-
-content: test git operation
+git is a distribution system
+git if free
